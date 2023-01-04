@@ -1,0 +1,10 @@
+com\amtrp\youtube\pt\ProductServiceApplication.class
+com\amtrp\youtube\pt\service\ProductService.class
+com\amtrp\youtube\pt\controller\ProductController.class
+com\amtrp\youtube\pt\model\Product$ProductBuilder.class
+com\amtrp\youtube\pt\dto\ProductRequest$ProductRequestBuilder.class
+com\amtrp\youtube\pt\dto\ProductResponse$ProductResponseBuilder.class
+com\amtrp\youtube\pt\dto\ProductResponse.class
+com\amtrp\youtube\pt\dto\ProductRequest.class
+com\amtrp\youtube\pt\repository\ProductRepository.class
+com\amtrp\youtube\pt\model\Product.class

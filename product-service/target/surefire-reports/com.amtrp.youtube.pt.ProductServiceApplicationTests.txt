@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.amtrp.youtube.pt.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.679 s <<< FAILURE! - in com.amtrp.youtube.pt.ProductServiceApplicationTests
+com.amtrp.youtube.pt.ProductServiceApplicationTests  Time elapsed: 0.677 s  <<< ERROR!
+java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+
